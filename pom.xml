@@ -12,7 +12,7 @@
 	<artifactId>Basic_task1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Basic_task1</name>
-	<description>Basic RUST APIs with CRUD operations</description>
+	<description>Basic REST APIs with CRUD operations</description>
 	<url/>
 	<licenses>
 		<license/>
